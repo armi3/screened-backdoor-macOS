@@ -1,2 +1,2 @@
 # OSX-screened-backdoor
-Rubber Ducky payload for semi persistent backdooring.
+Rubber Ducky payload for semi persistent backdooring using screen.
